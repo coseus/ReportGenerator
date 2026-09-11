@@ -1,9 +1,0 @@
-streamlit
-plotly
-pandas
-reportlab
-python-docx
-lxml
-Pillow
-matplotlib
-plotly[kaleido]
